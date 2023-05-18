@@ -15,12 +15,9 @@ Welcome to the DogeAI demo! This project showcases how to integrate the DogeAI, 
 
 # Start
 
-1. Clone the DogeAI Demo repository:
-`git clone https://github.com/PrimitivesLTD/DogeAI-Demo.git`
-2. Navigate to the relevant directory:
-`cd ./Source/CityParkEnvironmentCollec/Private`
-3. Clone the DogeAI repository:
-`git clone https://github.com/PrimitivesLTD/DogeAI.git`
+1. Download the DogeAI Demo from the Releases section: [DogeAI Demo v0.1.0](https://github.com/PrimitivesLTD/DogeAI-Demo/releases/tag/v0.1.0)
+2. Extract the downloaded archive to a directory of your choice on your computer
+3. Open the Visual Studio solution
 
 # Prerequisites
 - [Unreal Engine 5](https://www.unrealengine.com/unreal-engine-5)
