@@ -1,0 +1,3 @@
+[submodule "Source/CityParkEnvironmentCollec/Private"]
+	path = Source/CityParkEnvironmentCollec/Private
+	url = https://github.com/PrimitivesLTD/DogeAI.git
